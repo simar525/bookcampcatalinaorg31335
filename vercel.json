@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "redirects": [{"source": "/en",       "destination": "/hell",       "permanent": true     },{"source": "/en",       "destination": "/hello",       "permanent": true     }
 ],
   "rewrites": [
     {
