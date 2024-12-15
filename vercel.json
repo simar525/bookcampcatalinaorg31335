@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bookme.name/vipguest/$1"
+ }
+  ]
+}
